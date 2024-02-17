@@ -64,6 +64,8 @@ resize_images(input_folder, output_folder, width=800, height=600)
 
 After running the script, resized images will be saved in the `resized_images` folder.
 
+You can check the Example folder to get the proper understanding of the script.
+
 ## Notes
 
 - Supported image formats: `.jpg`, `.jpeg`, `.png`, `.bmp`.
